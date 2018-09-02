@@ -286,5 +286,9 @@
 			"Name": "OnlineSubsystemGoogle",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
 	]
 }
